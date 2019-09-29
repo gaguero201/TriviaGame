@@ -1,3 +1,5 @@
+//I cannot get the questions to display all 10
+//
 var questions = [
   {
     ques: "What was the first movie in the Marvel Cinematic Universe?",
